@@ -3,7 +3,7 @@ Snake
 
 This repository contains my Final porject, the game Snake. 
 
-## Sketch 1
+## Snake
 [Sketch](./sketch/)
 
 Feel free to play the game. 
