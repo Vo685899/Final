@@ -1,7 +1,6 @@
 # Final
-Snake
 
-This repository contains my Final porject, the game Snake. 
+This repository contains my final porject, the game Snake. 
 
 ## Snake
 [Sketch](./sketch/)
